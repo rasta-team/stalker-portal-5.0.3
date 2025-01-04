@@ -15,7 +15,7 @@ Stalker auto install script
 ## Installation
 ```bash
 apt-get install git
-git clone https://github.com/madzharov/stalker-portal-5.0.3.git
+git clone https://github.com/rasta-team/stalker-portal-5.0.3.git
 cd stalker-portal-5.0.3/
 ```
 
@@ -28,7 +28,7 @@ This is the root password for MySQL that will be set during the installation, yo
 
 And on line 10 change
 ```bash
-TIME_ZONE="Europe/Amsterdam"
+TIME_ZONE="Asia/Kuala_Lumpur"
 ```
 This is the time zone that will be set during the installation, you can change it with yours if you wish
 
