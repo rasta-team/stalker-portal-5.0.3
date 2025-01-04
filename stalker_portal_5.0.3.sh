@@ -7,7 +7,7 @@ apt-get upgrade -y
 apt-get install net-tools -y 
 
 VERSION="5.0.3"
-TIME_ZONE="Europe/Amsterdam"
+TIME_ZONE="Asia/Kuala_Lumpur"
 mysql_root_password="test123456"
 repository="https://bob-tv-previous-customize.trycloudflare.com/stalker"
 
